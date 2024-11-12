@@ -1,4 +1,4 @@
-upackage com.example.sktriqueza.sktriqueza;
+package com.example.sktriqueza.sktriqueza;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
